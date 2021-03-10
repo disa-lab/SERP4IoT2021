@@ -13,4 +13,4 @@ The final list of 78 IoT tags that we used to collect our IoT posts from Stack O
 The benchmark consists of the two xls files (BenchmarkUddinSO-ConsoliatedAspectSentiment.xls and IoT_Training_samples.xlsx) provided in the repo. The code for RoBERTa model is shared with RoBERTa.py file
 
 ## The labeled dataset for security and ML
-Can be found in https://www.dropbox.com/s/q0p6ewhs2163uuy/IoT_Data_ML_Final.csv?dl=0 This is a CSV file. It is 96MB. It has all the sentences that we picked from our 53K IoT posts, each labeled as security and ML as discussed in the paper
+The data used to answer RQ1 and RQ2 can be found in the CSV file IoT_Data_ML_Final.csv
